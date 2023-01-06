@@ -13,5 +13,6 @@ Then I would suggest take a quick look at one of the following
 
 <h2>Pictures of some of the Projects</h2>
 
-<img src = "https://user-images.githubusercontent.com/68161803/211031585-5b447119-b3bc-4058-a131-c3800c4ca19e.png" width = "450"/>
+<img src = "https://user-images.githubusercontent.com/68161803/211034876-66e39303-56f2-4ff7-8083-4e0193c29ca7.png" width = "450"/>
 
+<!-- ![BOX1000](https://user-images.githubusercontent.com/68161803/211034876-66e39303-56f2-4ff7-8083-4e0193c29ca7.png) -->
