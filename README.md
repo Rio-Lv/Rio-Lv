@@ -10,15 +10,8 @@ Then I would suggest take a quick look at one of the following
 - [Sentent Blob Vessel](https://github.com/Rio-Lv/SentientBlobSandbox)
 - [L Wong Consulting Web](https://github.com/Rio-Lv/LWongWeb)
 
-<!-- 
-<p float="left">
-  <kbd>
-    <img src="https://user-images.githubusercontent.com/68161803/167474944-85252cd7-632d-45cc-ab52-e9865057cfd2.png" height="120"/>
-  </kbd>
-  <kbd>
-    <img src="https://user-images.githubusercontent.com/68161803/165327710-eb7a14e5-078c-4dbe-baad-5a347c5db162.png" height="120"  /> 
-  </kbd>
-  <kbd>
-  <img src="https://user-images.githubusercontent.com/68161803/158393795-50a2c4ad-fea4-48f1-8941-74f51468d460.png" height="120" />
-  </kbd>
-</p> -->
+
+<h2>Pictures of some of the Projects</h2>
+
+<img src = "https://user-images.githubusercontent.com/68161803/211031585-5b447119-b3bc-4058-a131-c3800c4ca19e.png" width = "450"/>
+
