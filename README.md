@@ -11,7 +11,7 @@ Then I would suggest take a quick look at one of the following
 - [L Wong Consulting Web](https://github.com/Rio-Lv/LWongWeb)
 
 
-<h2>Spoilers</h2>
+<h3>SPOILERS!</h3>
 
 <img src = "https://user-images.githubusercontent.com/68161803/211034876-66e39303-56f2-4ff7-8083-4e0193c29ca7.png" width = "450"/>
 
