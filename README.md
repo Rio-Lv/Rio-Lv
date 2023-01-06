@@ -6,7 +6,7 @@ I would suggest take a quick look at one of the following
 - [ANCHORS TS](https://github.com/Rio-Lv/anchors_ts). 
 - [TREE](https://github.com/Rio-Lv/Tree)
 - [GRAVITY MAGNETISM VISUALIZER](https://github.com/Rio-Lv/Gravity-and-Magentism-visualizer)
-
+- [SENTIENT BLOB VESSEL](https://github.com/Rio-Lv/SentientBlobSandbox)
 
 
 
