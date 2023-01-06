@@ -2,7 +2,7 @@
 
 If you want something interesting to look at for no particular reason... **please hire me**
 
-then I would suggest take a quick look at one of the following 
+Then I would suggest take a quick look at one of the following 
 - [ANCHORS TS](https://github.com/Rio-Lv/anchors_ts). 
 - [TREE](https://github.com/Rio-Lv/Tree)
 - [GRAVITY MAGNETISM VISUALIZER](https://github.com/Rio-Lv/Gravity-and-Magentism-visualizer)
