@@ -7,7 +7,7 @@ Then I would suggest take a quick look at one of the following
 - [Tree](https://github.com/Rio-Lv/Tree)
 - [p5ts](https://github.com/Rio-Lv/p5ts)
 - [Gravity Magnetism Visualizer](https://github.com/Rio-Lv/Gravity-and-Magentism-visualizer)
-- [Sentent Blob Vessel](https://github.com/Rio-Lv/SentientBlobSandbox)
+- [Sentient Blob Vessel](https://github.com/Rio-Lv/SentientBlobSandbox)
 - [L Wong Consulting Web](https://github.com/Rio-Lv/LWongWeb)
 
 
