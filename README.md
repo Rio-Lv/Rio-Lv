@@ -1,4 +1,4 @@
-<h1>BEHOLD... My STUFF!</h1>
+<h1>BEHOLD... MY STUFF!</h1>
 
 If you want something interesting to look at for no particular reason... **please hire me**
 
