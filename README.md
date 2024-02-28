@@ -1,6 +1,6 @@
 <h1>BEHOLD... MY STUFF!</h1>
 
-If you want something interesting to look at for no particular reason... **please hire me**
+If you want something interesting to look at for no particular reason... 
 
 Then I would suggest take a quick look at one of the following:
 - [Anchors Ts](https://github.com/Rio-Lv/anchors_ts). 
